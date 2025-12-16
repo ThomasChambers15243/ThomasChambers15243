@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tom Chambers
 - Exeter & Falmouth Computer Science Graduate
 - PhD Student at [COLALab](https://colalab.ai/)
-- 
