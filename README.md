@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tom Chambers
-- Exeter & Falmouth Computer Science Graduate
-- PhD Student at [COLALab](https://colalab.ai/)
+- Graduate Research Assistant at [COLALab](https://colalab.ai/)
+- Exeter MSc & Falmouth BSc Computer Science Graduate
