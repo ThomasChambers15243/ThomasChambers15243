@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tom Chambers
-- Graduate Research Assistant at [COLALab](https://colalab.ai/)
+- Research Associate at [COLALab](https://colalab.ai/), research xAI for the biomedical domain and singlel-cell segmentation
 - Exeter MSc & Falmouth BSc Computer Science Graduate
